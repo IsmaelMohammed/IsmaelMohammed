@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsmaelMohammed
 - 👀 I’m interested in learning new things and football(soccer)
-- 🌱 I’m currently learning cross platform mobile application developement and AI associate at Gebeya Training
+- 🌱 I am across platform mobile application developer| iOS, android, C#, java and so on. 
 - 📫 How to reach me ismaelmohammed97@gmail.com
 
 <!---
